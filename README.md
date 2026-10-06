@@ -99,7 +99,7 @@ You do not need to delete your whole account to remove specific items:
 
 ### C. Requesting Manual Data Deletion (Web / External Request)
 If you cannot access the App or wish to request manual data deletion externally:
-* Send an email to our privacy team at: **`support@industrialstores.com`** *(Replace with your email)*
+* Send an email to our privacy team at: **`industrialstores101@gmail.com`**
 * Subject Line: **`Account & Data Deletion Request - [Your Registered Email]`**
 * We will verify your identity and complete the deletion of your account and data within **30 days** of receiving your request.
 
@@ -169,6 +169,6 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 If you have any questions, concerns, or requests regarding this Privacy Policy or your data privacy, please contact us at:
 
 * **App Name:** Industrial Stores
-* **Email:** `support@industrialstores.com` *(Replace with your email)*
-* **Phone / WhatsApp:** `+1 123 456 7890` *(Replace with your phone number)*
-* **Address:** `Industrial Stores HQ, Main City, Country` *(Replace with your address)*
+* **Email:** `industrialstores101@gmail.com`
+* **Phone / WhatsApp:** `+923246663831`
+* **Address:** `H#s335 street#4 Boley-jhugi Faisalabad Pakistan`
